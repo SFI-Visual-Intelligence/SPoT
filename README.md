@@ -1,3 +1,5 @@
+Paper: SPoT: Subpixel Placement of Tokens in Vision Transformers ([Link](https://api.nva.unit.no/publication/019cf6218565-e3006056-514a-4532-978f-28e89f90635d))
+
 <div align="center">
 
 # SPoT: Subpixel Placement of Tokens in Vision Transformers
